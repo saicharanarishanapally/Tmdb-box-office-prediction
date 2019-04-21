@@ -20,6 +20,7 @@
    7.mean of runtime By Year,mean of Popularity By Year,mean of Budget By Year,median of Budget By Year
 #Prediction Model and respective rmse
 #Comparision between all models 
+ 
  MODEL          |  RMSE
  ---------------|----------
  Randomforest   |  0.65
